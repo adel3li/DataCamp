@@ -1,6 +1,6 @@
 # DataCamp
 
-![15%](https://progress-bar.dev/5/?title=Done)
+![15%](https://progress-bar.dev/15/?title=Done)
 
 - ### Theory Interactive Courses
 
