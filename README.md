@@ -1,6 +1,6 @@
 # DataCamp
 
-![5%](https://progress-bar.dev/5/?title=Done)
+![15%](https://progress-bar.dev/5/?title=Done)
 
 - ### Theory Interactive Courses
 
@@ -9,4 +9,5 @@
 
 - ### Python Interactive Courses
 
-    - [x] ` Done `  ` 4h ` - 02 - [Introduction to python](https://www.datacamp.com/statement-of-accomplishment/course/6d98c5d9f4b4fad58e1e92352b47fceb54cec165)
+    - [x] ` Done `  ` 4h ` - 02 - [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/6d98c5d9f4b4fad58e1e92352b47fceb54cec165)
+    - [x] ` Done `  ` 4h ` - 02 - [Introduction to Data Science in Python](https://www.datacamp.com/statement-of-accomplishment/course/dc1ca0833abe7253e32adfb93aaf732511e36f1d)
